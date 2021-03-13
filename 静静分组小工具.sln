@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "静静分组小工具", "静静分组小工具.csproj", "{EBFCE137-AD86-473B-95D9-01957A5B7B0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBFCE137-AD86-473B-95D9-01957A5B7B0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBFCE137-AD86-473B-95D9-01957A5B7B0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBFCE137-AD86-473B-95D9-01957A5B7B0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBFCE137-AD86-473B-95D9-01957A5B7B0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84A8E16F-212F-4B66-91D3-B86FCCDF0066}
+	EndGlobalSection
+EndGlobal
